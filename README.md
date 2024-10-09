@@ -1,2 +1,3 @@
 Initiate review of water level measurements using the notebook 1-Data_prep.ipynb.  This will take you through the steps of identifying and downloading time series groundwater level measurements from IntellusNM.com.  IntellusNM.com is the public repository of millions of Los Alamos, New Mexico area environmental monitoring records.
+
 After the data are prepared, use the notebook 2-EDA.ipynb. This notebook will take you through the steps of using the downloaded groundwater level measurements to identify trends, outliers, seasonality and upset events in the measurements.
